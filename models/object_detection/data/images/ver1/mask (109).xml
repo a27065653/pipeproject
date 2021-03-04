@@ -1,0 +1,38 @@
+<annotation>
+	<folder>新增資料夾</folder>
+	<filename>mask (109).jpg</filename>
+	<path>D:\專題\新增資料夾\mask (109).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>535</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>97</ymin>
+			<xmax>277</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>49</ymin>
+			<xmax>208</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>

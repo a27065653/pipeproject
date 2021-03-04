@@ -1,0 +1,74 @@
+<annotation>
+	<folder>新增資料夾</folder>
+	<filename>mask (228).jpg</filename>
+	<path>D:\專題\新增資料夾\mask (228).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4594</width>
+		<height>3062</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2154</xmin>
+			<ymin>2038</ymin>
+			<xmax>2622</xmax>
+			<ymax>2333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3406</xmin>
+			<ymin>2110</ymin>
+			<xmax>3852</xmax>
+			<ymax>2445</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>1805</ymin>
+			<xmax>1082</xmax>
+			<ymax>2131</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1882</xmin>
+			<ymin>1659</ymin>
+			<xmax>2140</xmax>
+			<ymax>1861</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3694</xmin>
+			<ymin>1531</ymin>
+			<xmax>3978</xmax>
+			<ymax>1759</ymax>
+		</bndbox>
+	</object>
+</annotation>
